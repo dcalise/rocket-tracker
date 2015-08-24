@@ -1,0 +1,44 @@
+{
+	"result": {
+		"match_id": 87546213,
+        "ranked": true,
+		"start_time": 1440389085, 
+        "lobby_type": 2,
+		"blue_win": true,
+		"red_win": false,
+		"blue_score": 4,
+		"red_score": 3,
+		"players": [
+			{
+                "user_id": 123456,
+                "platform":"pc",
+                "mvp":1,
+                "score": 845,
+                "goals":2,
+                "assists":3,
+                "saves": 4,
+                "shots_on_goal": 8
+            },
+            {
+                "user_id": 654321,
+                "platform":"pc",
+                "mvp":0,
+                "score": 845,
+                "goals":2,
+                "assists":3,
+                "saves": 4,
+                "shots_on_goal": 8
+            },
+            {
+                "user_id": 987654,
+                "platform":"pc",
+                "mvp":0,
+                "score": 845,
+                "goals":2,
+                "assists":3,
+                "saves": 4,
+                "shots_on_goal": 8
+            }
+		]
+	}
+}

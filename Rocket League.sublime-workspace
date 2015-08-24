@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JSON",
+				"JSONfile"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"header",
+				"header-wrapper"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"the",
+				"theIndexEnd"
+			],
+			[
+				"curr",
+				"currentElem"
+			],
+			[
+				"current",
+				"currentElem"
+			],
+			[
+				"CURREN",
+				"currentElemLower"
+			],
+			[
+				"currn",
+				"currentElemLower"
+			],
+			[
+				"name",
+				"nameValue"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"crop",
+				"crop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n  \"users\": [\n    {\n      \"id\": \"123456\",\n      \"name\": \"Tony Vivaldi\",\n      \"platform\": \"pc\",\n      \"lastplayed\": \"754\",\n      \"stats\": {\n        \"matches played\": \"436\",\n        \"wins\": \"226\",\n        \"losses\": \"210\",\n        \"mvps\": \"95\",\n        \"goals\": \"843\",\n        \"aerial goals\": \"2\",\n        \"backward goals\": \"20\",\n        \"bicycle goals\": \"1\",\n        \"long goals\": \"48\",\n        \"overtime goals\": \"14\",\n        \"hat tricks\": \"151\",\n        \"assists\": \":193\",\n        \"playmakers\": \"7\",\n        \"saves\": \"298\",\n        \"epic saves\": \"95\",\n        \"saviors\": \":50\",\n        \"shots on goals\": \"1504\",\n        \"centered balls\": \"2187\",\n        \"cleared balls\": \"1119\",\n        \"aerial hits\": \"20\",\n        \"bicycle hits\": \"49\",\n        \"juggles\": \"6\",\n        \"demolitions\": \"83\",\n        \"exterminations\": \"0\",\n        \"first touches\": \"591\",\n        \"pool shots\": \"4\"\n      }\n    },\n    {\n      \"id\": \"654321\",\n      \"name\": \"deetrain\",\n      \"platform\": \"pc\",\n      \"lastplayed\": \"300\",\n      \"stats\": {\n        \"matches played\": \"436\",\n        \"wins\": \"226\",\n        \"losses\": \"210\",\n        \"mvps\": \"95\",\n        \"goals\": \"843\",\n        \"aerial goals\": \"2\",\n        \"backward goals\": \"20\",\n        \"bicycle goals\": \"1\",\n        \"long goals\": \"48\",\n        \"overtime goals\": \"14\",\n        \"hat tricks\": \"151\",\n        \"assists\": \":193\",\n        \"playmakers\": \"7\",\n        \"saves\": \"298\",\n        \"epic saves\": \"95\",\n        \"saviors\": \":50\",\n        \"shots on goals\": \"1504\",\n        \"centered balls\": \"2187\",\n        \"cleared balls\": \"1119\",\n        \"aerial hits\": \"20\",\n        \"bicycle hits\": \"49\",\n        \"juggles\": \"6\",\n        \"demolitions\": \"83\",\n        \"exterminations\": \"0\",\n        \"first touches\": \"591\",\n        \"pool shots\": \"4\"\n      }\n    },\n    {\n      \"id\": \"987654\",\n      \"name\": \"Saiek\",\n      \"platform\": \"pc\",\n      \"lastplayed\": \"11000\",\n      \"stats\": {\n        \"matches played\": \"436\",\n        \"wins\": \"226\",\n        \"losses\": \"210\",\n        \"mvps\": \"95\",\n        \"goals\": \"843\",\n        \"aerial goals\": \"2\",\n        \"backward goals\": \"20\",\n        \"bicycle goals\": \"1\",\n        \"long goals\": \"48\",\n        \"overtime goals\": \"14\",\n        \"hat tricks\": \"151\",\n        \"assists\": \":193\",\n        \"playmakers\": \"7\",\n        \"saves\": \"298\",\n        \"epic saves\": \"95\",\n        \"saviors\": \":50\",\n        \"shots on goals\": \"1504\",\n        \"centered balls\": \"2187\",\n        \"cleared balls\": \"1119\",\n        \"aerial hits\": \"20\",\n        \"bicycle hits\": \"49\",\n        \"juggles\": \"6\",\n        \"demolitions\": \"83\",\n        \"exterminations\": \"0\",\n        \"first touches\": \"591\",\n        \"pool shots\": \"4\"\n      }\n    }\n  ]\n}\n",
+			"file": "rlstats/users.json",
+			"file_size": 2763,
+			"file_write_time": 130838713440200733,
+			"settings":
+			{
+				"buffer_size": 2657,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n  \"name\": \"rlstats\",\n  \"version\": \"0.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"node ./bin/www\"\n  },\n  \"dependencies\": {\n    \"body-parser\": \"~1.13.2\",\n    \"cookie-parser\": \"~1.3.5\",\n    \"debug\": \"~2.2.0\",\n    \"express\": \"~4.13.1\",\n    \"jade\": \"^1.11.0\",\n    \"morgan\": \"~1.6.1\",\n    \"serve-favicon\": \"~2.3.0\",\n    \"stylus\": \"0.42.3\",\n    \"nib\": \"2.11.2\"\n  }\n}\n",
+			"file": "rlstats/package.json",
+			"file_size": 372,
+			"file_write_time": 130837000336576033,
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/rlstats/rlstats"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/rlstats/rlstats/views/index.jade",
+		"/C/xampp/htdocs/rlstats/rlstats/public/styles/style.styl",
+		"/C/xampp/htdocs/rlstats/rlstats/views/user.jade",
+		"/C/xampp/htdocs/rlstats/rlstats/routes/routes.js",
+		"/C/xampp/htdocs/rlstats/rlstats/views/includes/header.jade",
+		"/C/xampp/htdocs/rlstats/rlstats/models/user.js",
+		"/C/xampp/htdocs/rlstats/rlstats/views/includes/head.jade",
+		"/C/xampp/htdocs/rlstats/rlstats/views/users.jade",
+		"/C/xampp/htdocs/rlstats/rlstats/public/javascripts/script.js",
+		"/C/xampp/htdocs/rlstats/rlstats/models/user.rest.js",
+		"/C/xampp/htdocs/rlstats/rlstats/public/styles/reset.styl",
+		"/C/xampp/htdocs/rlstats/rlstats/app.js",
+		"/C/xampp/htdocs/rlstats/rlstats/routes/___users.js",
+		"/C/xampp/htdocs/rlstats/rlstats/public/javascripts/chart_old.js",
+		"/C/xampp/htdocs/rlstats/object.json",
+		"/C/xampp/htdocs/rlstats/rlstats/public/javascripts/Chart.min.js",
+		"/C/xampp/htdocs/rlstats/rlstats/views/includes/foot.jade",
+		"/C/xampp/htdocs/rlstats/rlstats/views/about.jade",
+		"/C/xampp/htdocs/rlstats/rlstats/node_modules/stylus/lib/middleware.js",
+		"/C/xampp/htdocs/rlstats/rlstats/public/styles/columnus.styl",
+		"/C/xampp/htdocs/rlstats/rlstats/styles/style.css",
+		"/C/xampp/htdocs/rlstats/rlstats/_index.jade",
+		"/C/Users/calis_000/Downloads/byrichardpowell-jquery-scrolled-out-of-view-bf1ba4d/byrichardpowell-jquery-scrolled-out-of-view-bf1ba4d/README.md",
+		"/C/xampp/htdocs/crop/css/style.css",
+		"/C/xampp/htdocs/nodeschool/javascripting/function-arguments.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/functions.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/object-properties.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/objects.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/looping-through-arrays.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/accessing-array-values.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/array-filtering.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/strings.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/string-length.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/revising-strings.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/numbers.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/rounding-numbers.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/scope.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/if-statements.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/for-loop.js",
+		"/C/xampp/htdocs/bomberger/index.html",
+		"/C/xampp/htdocs/nodeschool/javascripting/arrays.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/number-to-string.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/variables.js",
+		"/C/xampp/htdocs/nodeschool/javascripting/introduction.js",
+		"/C/xampp/htdocs/jsfiddle/breakingbad/index.html",
+		"/C/xampp/htdocs/jsfiddle/breakingbad/js/app.js",
+		"/C/xampp/htdocs/bomberger/js/age-verification.js",
+		"/C/xampp/htdocs/bomberger/css/age-verification.css",
+		"/C/xampp/htdocs/chatham_backup/includes/header.php",
+		"/C/xampp/htdocs/chatham/marti_family.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\rlstats",
+			"C:\\xampp\\htdocs\\rlstats\\rlstats",
+			"C:\\xampp\\htdocs\\bomberger\\",
+			"C:\\xampp\\htdocs\\chatham"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rlstats/rlstats",
+			"JSONfile",
+			"\"platform\": \"pc\",",
+			"\n						",
+			"('./",
+			"	",
+			"User",
+			"color:",
+			"300",
+			"none",
+			"0",
+			":",
+			"input",
+			"connect",
+			"return stylus",
+			"stylus",
+			"/static",
+			"about",
+			"app.get",
+			"res.render('index', {",
+			"Welcome to Express",
+			"welcome to express",
+			"50%",
+			"li",
+			"ul",
+			"<img",
+			"\n",
+			".ico",
+			"EXPRESSIONS",
+			"col-md",
+			"<li>",
+			"footer",
+			"setCookie",
+			"requestedUrl",
+			"\"",
+			"Strong",
+			"p",
+			"Bomberger's",
+			"nameValue",
+			"theSnippet",
+			"theIndex",
+			"theLength",
+			".toString()",
+			", ",
+			", \"",
+			",",
+			"            \"",
+			"input",
+			"submit",
+			"font-family: 'Bree Serif', serif;",
+			";",
+			"h3",
+			"10",
+			"0",
+			"outerHeight",
+			"top",
+			".8",
+			"24",
+			"28",
+			"1px",
+			";\n",
+			"margin",
+			"title",
+			"test",
+			"col2-set",
+			"2-set",
+			"col2",
+			"\"\"",
+			"<li>",
+			"about",
+			"			",
+			"spirits_us",
+			"z-index",
+			"crop",
+			"farmers",
+			"michters",
+			"font-size:18px",
+			"p#",
+			"banner",
+			"class=\"banner\"",
+			"banner",
+			";",
+			"farmersgin",
+			"'’'",
+			"’",
+			"michters",
+			"7f430f",
+			"michters",
+			"’",
+			"box_header_login",
+			"image_header_login",
+			"Oz",
+			"oz",
+			"Oz",
+			"oz",
+			"Oz",
+			"oz",
+			"Oz",
+			"oz",
+			"name=\"vert_reviews\"",
+			"vert_products",
+			"products_page",
+			"http://www.chathamimports.com",
+			"www"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rlstats/users.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rlstats/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Rocket League.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\pegglinger\\pegglinger.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

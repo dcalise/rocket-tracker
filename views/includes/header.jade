@@ -1,0 +1,24 @@
+body
+	header
+		.container
+			.header-wrapper
+				a(href="/" title="Rocket Tracker")
+					img.logo(src='/images/logo.png')
+				nav
+					ul
+						li
+							a(href='/') Home
+						li
+							a(href='/about') About
+						li
+							a.search
+								i.fa.fa-search
+				.clearfix
+	section.search-bar
+		.container
+			.search
+				form(action='/search' accept-charset='UTF-8' method='get')
+					input(type='search' name='q' id='search' placeholder='Search for players...')
+					button(type='submit')
+						| Search
+						i.fa.fa-search

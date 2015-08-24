@@ -1,0 +1,22 @@
+doctype html
+html
+	include includes/head.jade
+	include includes/header.jade
+	.container
+		script.
+		section.content
+			.main
+				.profile-header
+					.avatar
+					.profile-info
+						h1.player-name= user.name
+						p.last-played!= platform
+							| &nbsp;- Last played&nbsp;
+							span
+								| 23 minutes ago
+				//- .charts
+				//- 	canvas#myChart(width="200" height="200")
+				.info
+
+	include includes/foot.jade
+

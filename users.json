@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "123456",
+      "name": "Tony Vivaldi",
+      "platform": "pc",
+      "last_played": "1440389085",
+      "stats": {
+        "matches played": "436",
+        "wins": "226",
+        "losses": "210",
+        "mvps": "95",
+        "goals": "843",
+        "aerial_goals": "2",
+        "backward_goals": "20",
+        "bicycle_goals": "1",
+        "long_goals": "48",
+        "overtime_goals": "14",
+        "hat_tricks": "151",
+        "assists": ":193",
+        "playmakers": "7",
+        "saves": "298",
+        "epic_saves": "95",
+        "saviors": ":50",
+        "shots_on_goals": "1504",
+        "centered_balls": "2187",
+        "cleared_balls": "1119",
+        "aerial_hits": "20",
+        "bicycle_hits": "49",
+        "juggles": "6",
+        "demolitions": "83",
+        "exterminations": "0",
+        "first_touches": "591",
+        "pool_shots": "4"
+      },
+      "matches": [
+        {
+            "match_id": "87546213",
+            "start_time": "1440389085", 
+            "lobby_type"
+        }
+      ]
+    },
+    {
+      "id": "654321",
+      "name": "deetrain",
+      "platform": "pc",
+      "lastplayed": "300",
+      "stats": {
+        "matches played": "436",
+        "wins": "226",
+        "losses": "210",
+        "mvps": "95",
+        "goals": "843",
+        "aerial goals": "2",
+        "backward goals": "20",
+        "bicycle goals": "1",
+        "long goals": "48",
+        "overtime goals": "14",
+        "hat tricks": "151",
+        "assists": ":193",
+        "playmakers": "7",
+        "saves": "298",
+        "epic saves": "95",
+        "saviors": ":50",
+        "shots on goals": "1504",
+        "centered balls": "2187",
+        "cleared balls": "1119",
+        "aerial hits": "20",
+        "bicycle hits": "49",
+        "juggles": "6",
+        "demolitions": "83",
+        "exterminations": "0",
+        "first touches": "591",
+        "pool shots": "4"
+      }
+    },
+    {
+      "id": "987654",
+      "name": "Saiek",
+      "platform": "pc",
+      "lastplayed": "11000",
+      "stats": {
+        "matches played": "436",
+        "wins": "226",
+        "losses": "210",
+        "mvps": "95",
+        "goals": "843",
+        "aerial goals": "2",
+        "backward goals": "20",
+        "bicycle goals": "1",
+        "long goals": "48",
+        "overtime goals": "14",
+        "hat tricks": "151",
+        "assists": ":193",
+        "playmakers": "7",
+        "saves": "298",
+        "epic saves": "95",
+        "saviors": ":50",
+        "shots on goals": "1504",
+        "centered balls": "2187",
+        "cleared balls": "1119",
+        "aerial hits": "20",
+        "bicycle hits": "49",
+        "juggles": "6",
+        "demolitions": "83",
+        "exterminations": "0",
+        "first touches": "591",
+        "pool shots": "4"
+      }
+    }
+  ]
+}

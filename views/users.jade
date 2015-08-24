@@ -1,0 +1,28 @@
+doctype html
+html
+	include includes/head.jade
+	include includes/header.jade
+	.container
+		section.content
+			.main
+				.users-table
+					table
+						tr
+							td
+								| ID
+							td
+								| Name
+							td
+								| Platform
+							td
+						each val in users
+							tr
+								td= val.id
+								td= val.name
+								td= val.platform
+								td
+									a(href="/user/#{val.id}")
+										| View Stats
+
+
+	include includes/foot.jade
