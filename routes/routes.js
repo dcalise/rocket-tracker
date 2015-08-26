@@ -1,8 +1,8 @@
 var express = require('express');
 var UserModel = require('./../models/user');
+var MatchModel = require('./../models/matches');
 
 var router = express.Router();
-var jsonFile = require(__dirname + '/../users.json');
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Rocket Tracker - Track Your Rocket League Stats Online!' });
@@ -23,10 +23,12 @@ router.get('/users', function(req, res, next) {
 
 router.get('/user/:id', function(req, res, next) {
 	var user = new UserModel(req.params.id)
+  var match = new MatchModel(req.params.id)
   	res.render('user', {
   		title: 'User specific',
   		user: user.getData(),
-  		platform: user.getPlatform()
+  		platform: user.getPlatform(),
+      match: match.getData()
   	});
 });
 

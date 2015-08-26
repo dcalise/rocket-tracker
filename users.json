@@ -5,6 +5,9 @@
       "name": "Tony Vivaldi",
       "platform": "pc",
       "last_played": "1440389085",
+      "rating_1": 680,
+      "rating_2": 696,
+      "rating_3": 787,
       "stats": {
         "matches played": "436",
         "wins": "226",
@@ -37,7 +40,22 @@
         {
             "match_id": "87546213",
             "start_time": "1440389085", 
-            "lobby_type"
+            "lobby_type": "1",
+            "ranked": true,
+            "players": [
+                {
+                    "user_id": "123456",
+                    "platform":"pc"
+                },
+                {
+                    "user_id": "654321",
+                    "platform":"pc"
+                },
+                {
+                    "user_id": "987654",
+                    "platform":"pc"
+                }
+            ]
         }
       ]
     },
@@ -45,7 +63,10 @@
       "id": "654321",
       "name": "deetrain",
       "platform": "pc",
-      "lastplayed": "300",
+      "last_played": "300",
+      "rating_1": 680,
+      "rating_2": 696,
+      "rating_3": 787,
       "stats": {
         "matches played": "436",
         "wins": "226",
@@ -79,7 +100,10 @@
       "id": "987654",
       "name": "Saiek",
       "platform": "pc",
-      "lastplayed": "11000",
+      "last_played": "11000",
+      "rating_1": 680,
+      "rating_2": 696,
+      "rating_3": 787,
       "stats": {
         "matches played": "436",
         "wins": "226",

@@ -5,18 +5,49 @@ html
 	.container
 		script.
 		section.content
+			.profile-header
+				.avatar
+				.profile-info
+					h1.player-name= user.name
+					p.last-played!= platform
+						| &nbsp;- Last played&nbsp;
+						span
+							| 23 minutes ago
 			.main
-				.profile-header
-					.avatar
-					.profile-info
-						h1.player-name= user.name
-						p.last-played!= platform
-							| &nbsp;- Last played&nbsp;
-							span
-								| 23 minutes ago
 				//- .charts
 				//- 	canvas#myChart(width="200" height="200")
-				.info
+				.recent-games
+					h2.
+						Recent Games
+					table#recent-games
+						thead
+							tr
+								th.
+									Match ID
+								th.
+									Final Score
+								th.
+									Game Mode
+								th.
+									Score
+								th.
+									Goals
+								th.
+									Assists
+								th.
+									Saves
+								th.
+									Shots
+				.overview
+					h2.
+						Overview
+					.col3-set
+						.col-1.
+							column 1
+						.col-2.
+							column 2
+						.col-3.
+							column 3
 
 	include includes/foot.jade
 
